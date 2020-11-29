@@ -126,6 +126,7 @@ checkBrowsers(paths.appPath, isInteractive)
       );
     },
     err => {
+      // NOTE: This means builds won't exit on ESLint errors too.
       const tscCompileOnError = process.env.TSC_COMPILE_ON_ERROR === 'true';
       if (tscCompileOnError) {
         console.log(
