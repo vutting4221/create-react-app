@@ -31,7 +31,7 @@
   "dependencies": {
     "chalk": "4.1.0",
     "commander": "4.1.1",
-    "cross-spawn": "7.0.3",
+    "cross-spawn": "7.0.5",
     "envinfo": "7.7.3",
     "fs-extra": "9.0.1",
     "hyperquest": "2.1.3",
