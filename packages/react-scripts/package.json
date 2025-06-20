@@ -63,7 +63,7 @@
     "jest-resolve": "26.6.0",
     "jest-watch-typeahead": "0.6.1",
     "mini-css-extract-plugin": "0.11.3",
-    "optimize-css-assets-webpack-plugin": "5.0.4",
+    "optimize-css-assets-webpack-plugin": "5.0.5",
     "pnp-webpack-plugin": "1.6.4",
     "postcss-flexbugs-fixes": "4.2.1",
     "postcss-loader": "3.0.0",
@@ -72,10 +72,10 @@
     "postcss-safe-parser": "5.0.2",
     "prompts": "2.4.0",
     "react-app-polyfill": "^2.0.0",
-    "react-dev-utils": "^11.0.1",
+    "react-dev-utils": "^12.0.0",
     "react-refresh": "^0.8.3",
     "resolve": "1.18.1",
-    "resolve-url-loader": "^3.1.2",
+    "resolve-url-loader": "^5.0.0",
     "sass-loader": "^10.0.5",
     "semver": "7.3.2",
     "style-loader": "1.3.0",
@@ -83,9 +83,9 @@
     "ts-pnp": "1.2.0",
     "url-loader": "4.1.1",
     "webpack": "4.44.2",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "4.7.3",
     "webpack-manifest-plugin": "2.2.0",
-    "workbox-webpack-plugin": "5.1.4"
+    "workbox-webpack-plugin": "6.0.0"
   },
   "devDependencies": {
     "react": "^17.0.1",
